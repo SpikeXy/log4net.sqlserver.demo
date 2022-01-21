@@ -1,0 +1,5 @@
+{
+  "connectionstrings": {
+    "sqlserver": "Data Source=.;Initial Catalog=test;Trusted_Connection=True;Encrypt=false;TrustServerCertificate=false;"
+  }
+}
